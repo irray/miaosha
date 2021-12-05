@@ -17,6 +17,7 @@
 [![Travis](https://img.shields.io/badge/language-Java-yellow.svg)](https://github.com/qiurunze123)
 高并发大流量如何进行秒杀架构，我对这部分知识做了一个系统的整理，写了一套系统。本GitHub还有许多其他的知识，随时欢迎探讨与骚扰！本文还在更新如果文章出现瑕疵请及时与我联系！
 
+
 文章还有许多不足，我仍在不断改进！如果你本地没有这些环境,可以先找我要我的阿里云地址,看效果！ ps: 本文章基础思路来自于若鱼1919老师！大家可以关注老师的课和博客很不错,老师很nice！ 谢谢大家 ！课程地址：https://coding.imooc.com/class/168.html
 
 一点小建议：学习本系列知识之前，如果你完全没接触过 `MQ`、`SpringBoot`、`Redis`、`Dubbo`、`ZK` 、`Maven`,`lua`等，那么我建议你可以先在网上搜一下每一块知识的快速入门，
